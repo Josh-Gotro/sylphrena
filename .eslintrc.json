@@ -18,14 +18,14 @@
     ],
     "brace-style": [
       "error",
-      "stroustrup",
+      "1tbs",
       {
         "allowSingleLine": true
       }
     ],
     "comma-dangle": [
       "error",
-      "always-multiline"
+      "only-multiline"
     ],
     "comma-spacing": "error",
     "comma-style": "error",
