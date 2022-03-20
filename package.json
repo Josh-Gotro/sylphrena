@@ -1,0 +1,29 @@
+{
+  "name": "sylphrena",
+  "version": "1.0.0",
+  "description": "cheeky discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Josh-Gotro/sylphrena.git"
+  },
+  "keywords": [
+    "node.js",
+    "discord.js"
+  ],
+  "author": "gotro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Josh-Gotro/sylphrena/issues"
+  },
+  "homepage": "https://github.com/Josh-Gotro/sylphrena#readme",
+  "devDependencies": {
+    "eslint": "^8.11.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0"
+  }
+}
