@@ -5,6 +5,7 @@
     "es6": true
   },
   "parserOptions": {
+    "sourceType": "module",
     "ecmaVersion": 2021
   },
   "rules": {
@@ -38,10 +39,6 @@
       "property"
     ],
     "handle-callback-err": "off",
-    "indent": [
-      "error",
-      "tab"
-    ],
     "keyword-spacing": "error",
     "max-nested-callbacks": [
       "error",
@@ -88,10 +85,6 @@
       "always"
     ],
     "prefer-const": "error",
-    "quotes": [
-      "error",
-      "single"
-    ],
     "semi": [
       "error",
       "always"
